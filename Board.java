@@ -1,5 +1,4 @@
-// Full Name: Sandra S Thadathil
-// ID No: B00939988
+
 
 //Board class hold 8 * 8 game board and contains displayBoard(), addPiece() and movePiece() methods.
 public class Board {
