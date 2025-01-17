@@ -1,5 +1,3 @@
-// Full Name: Sandra S Thadathil
-// ID No: B00939988
 
 public class FastPiece extends Piece {
 
