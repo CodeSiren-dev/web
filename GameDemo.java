@@ -1,5 +1,3 @@
-// Full Name: Sandra S Thadathil
-// ID No: B00939988
 
 // GameDemo class reads commands from the console, move the pieces and display the game board.
 
